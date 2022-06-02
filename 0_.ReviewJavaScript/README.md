@@ -2,6 +2,7 @@
 
 
 ## Print Hell World
+ - - - -
 ```javascript
 <body>
   <h1>Hello World</h1>
@@ -12,7 +13,7 @@
 ```
 
 ## Separation Concern
-
+ - - - -
 ### index.html
 ```html
 <body>
@@ -36,6 +37,7 @@ Hello World -->
 ```
 
 ## Variables
+ - - - -
 sudlanan sa mga variables
 
 ### index.js
@@ -47,7 +49,12 @@ console.log(name);
 // Rab
 ```
 ## Objects
+ - - - -
 Using let and const
+<br>
+<br>
+![picture alt](Media/Object.png)
+<br><br>
 ### index.js
 ```javascript
 let person={
@@ -64,15 +71,15 @@ person['name']='Mary';
 console.log(person.name);
 ```
 ## Arrays
-
+ - - - -
 ```javascript
 let selectedColors = ['red','blue'];
 selectedColors[2] = 1;
 
 console.log(selectedColors.length);
 ```
-## function
-
+## Function
+ - - - -
 ```javascript
 function greet(hame){
   console.log('Hello World');
@@ -84,10 +91,9 @@ greet();
 function greet(name){
   console.log('Hello' + name);
 }
-greet('John');
-greet('Mary');
-                      
-```
 
+greet('John');
+greet('Mary');                  
+```
 
 
