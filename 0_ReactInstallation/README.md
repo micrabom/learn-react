@@ -8,3 +8,9 @@ npm install -g create-react-app
 create-react-app -version
 create-react-app <project name>
 ```
+
+*   <h2>Run React via terminal</h2>
+
+```
+npm start
+```
