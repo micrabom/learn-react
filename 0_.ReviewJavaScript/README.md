@@ -46,4 +46,48 @@ console.log(name);
 // Output:
 // Rab
 ```
+## Objects
+Using let and const
+### index.js
+```javascript
+let person={
+  name:'Mosh',
+  age:30
+};
+
+// Dot Notation
+person.name='John';
+// Bracket Notation
+let selection = 'name';
+person['name']='Mary';
+
+console.log(person.name);
+```
+## Arrays
+
+```javascript
+let selectedColors = ['red','blue'];
+selectedColors[2] = 1;
+
+console.log(selectedColors.length);
+```
+## function
+
+```javascript
+function greet(hame){
+  console.log('Hello World');
+}
+greet();
+```
+
+```javascript
+function greet(name){
+  console.log('Hello' + name);
+}
+greet('John');
+greet('Mary');
+                      
+```
+
+
 
