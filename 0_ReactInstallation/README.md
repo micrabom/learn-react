@@ -20,7 +20,11 @@ npm start
  - - - -
  
 ```
-npm -g bootstrap@4.1.1
+npm install react-bootstrap bootstrap
 ```
 
 import dayun ang bootstrap sa index.js
+```
+import 'bootstrap/dist/css/bootstrap.css' or 
+import 'bootstrap/dist/css/bootstrap.min.css'
+```
