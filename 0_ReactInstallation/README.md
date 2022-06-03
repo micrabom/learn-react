@@ -1,4 +1,5 @@
 # React Installation
+ - - - -
 
 *   <h2>Install NodeJS and NPM</h2>
 *   <h2>Install VSCode</h2>
@@ -14,3 +15,12 @@ create-react-app <project name>
 ```
 npm start
 ```
+
+## Install Bootstrap
+ - - - -
+ 
+```
+npm -g bootstrap@4.1.1
+```
+
+import dayun ang bootstrap sa index.js
