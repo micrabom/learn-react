@@ -6,7 +6,7 @@
 *   <h2>Install React from Terminal</h2>
 ```
 npm install -g create-react-app
-create-react-app -version
+create-react-app --version
 create-react-app <project name>
 ```
 
