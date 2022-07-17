@@ -100,8 +100,7 @@ export default Card
 
 Continue . . .
 <br />
-[TAGALOG] React JS Tutorial Part 1 - Basic Fundamentals
+[TAGALOG] React JS Tutorial Part 2 - Basic Fundamentals
 <br />
-https://www.youtube.com/watch?v=LjESmR8NVTA
+https://www.youtube.com/watch?v=FlcPTiEy_0w
 <br />
-19:26
